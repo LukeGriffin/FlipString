@@ -1,0 +1,31 @@
+
+.root{
+	-fx-background-color : #181518;
+	-fx-font-size : 24;
+	-fx-font-family : arial;
+	-fx-font-weight : bold;
+}
+
+.button{
+	-fx-background-color : #ffd739;
+	-fx-background-radius : 5;
+	-fx-text-fill : #181518;
+}
+
+.button:hover{
+	-fx-background-color : #bba8aa;
+	-fx-text-fill : #181518;
+}
+
+.label{
+	-fx-text-fill : #ffd739;
+}
+
+.text-input{
+	-fx-background-color : #bba8aa;
+}
+
+.label-2{
+	-fx-text-fill : #ffd739;
+	-fx-font-size : 36;
+}
